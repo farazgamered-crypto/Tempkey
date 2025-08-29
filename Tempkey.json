@@ -11,6 +11,6 @@
     "username": "alireza",
     "password": "kooni",
     "expiresAt": "2090-11-30",
-    "allowOffline": false
+    "allowOffline": true
     }
 ]
